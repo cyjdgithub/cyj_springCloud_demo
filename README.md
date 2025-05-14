@@ -1,3 +1,7 @@
+##### This repository is no longer maintained. Please visit the following link for the latest version of the project.
+link： https://github.com/cyjdgithub/spring-cloud-microservice.git 
+
+
 ### ✅ 1. Gateway service
 - Custom assertion: `VipRoutePredicateFactory`, judge VIP user routing permissions through query param
 - Custom filter: `OnceTokenGatewayFilterFactory`, support one-time token verification (anti-duplicate request)
